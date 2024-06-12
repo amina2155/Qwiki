@@ -1,0 +1,352 @@
+{
+    "1": {
+        "question": "I am a fruit. I am yellow and you can peel me. What am I?",
+        "answer": "BANANA",
+        "option1": "ORANGE",
+        "option2": "LEMON",
+        "option3": "MANGO"
+    },
+    "2": {
+        "question": "I am black and white and I moo. What am I?",
+        "answer": "COW",
+        "option1": "PIG",
+        "option2": "ZEBRA",
+        "option3": "GOAT"
+    },
+    "3": {
+        "question": "I am an animal. I live in the sea. I have a long tail and I like to swim. What am I?",
+        "answer": "DOLPHIN",
+        "option1": "ELEPHANT",
+        "option2": "SHARK",
+        "option3": "WHALE"
+    },
+    "4": {
+        "question": "I am a fruit. I am red and juicy. People like to eat me in the summer. What am I?",
+        "answer": "WATERMELON",
+        "option1": "BANANA",
+        "option2": "STRAWBERRY",
+        "option3": "CHERRY"
+    },
+    "5": {
+        "question": "I am a bird. I am white and I fly in the sky. What am I?",
+        "answer": "DOVE",
+        "option1": "PENGUIN",
+        "option2": "SWAN",
+        "option3": "SEAGULL"
+    },
+    "6": {
+        "question": "I am a vegetable. I am green and crunchy. People like to eat me in salads. What am I?",
+        "answer": "CUCUMBER",
+        "option1": "CARROT",
+        "option2": "CELERY",
+        "option3": "LETTUCE"
+    },
+    "7": {
+        "question": "I am a flower. I am red and people give me to each other on Valentine's Day. What am I?",
+        "answer": "ROSE",
+        "option1": "SUNFLOWER",
+        "option2": "TULIP",
+        "option3": "DAISY"
+    },
+    "8": {
+        "question": "I am a vegetable. I am round and people carve faces on me during Halloween. What am I?",
+        "answer": "PUMPKIN",
+        "option1": "BROCCOLI",
+        "option2": "TOMATO",
+        "option3": "CABBAGE"
+    },
+    "9": {
+        "question": "I am an insect. I have colorful wings and I flutter around flowers. What am I?",
+        "answer": "BUTTERFLY",
+        "option1": "ANT",
+        "option2": "BEE",
+        "option3": "LADYBUG"
+    },
+    "10": {
+        "question": "I am a fruit. I am yellow and people often make me into smoothies. What am I?",
+        "answer": "BANANA",
+        "option1": "APPLE",
+        "option2": "PINEAPPLE",
+        "option3": "MANGO"
+    },
+    "11": {
+        "question": "I am a vegetable. I am long and orange. Rabbits like to eat me. What am I?",
+        "answer": "CARROT",
+        "option1": "CUCUMBER",
+        "option2": "ZUCCHINI",
+        "option3": "PUMPKIN"
+    },
+    "12": {
+        "question": "I am a fruit. I am small and red. People like to put me on top of ice cream. What am I?",
+        "answer": "CHERRY",
+        "option1": "BANANA",
+        "option2": "GRAPE",
+        "option3": "RASPBERRY"
+    },
+    "13": {
+        "question": "I am a farm animal. I say 'baa'. What am I?",
+        "answer": "SHEEP",
+        "option1": "COW",
+        "option2": "GOAT",
+        "option3": "HORSE"
+    },
+    "14": {
+        "question": "I am a fruit. I am green and sour. People often use me to make pickles. What am I?",
+        "answer": "CUCUMBER",
+        "option1": "APPLE",
+        "option2": "LIME",
+        "option3": "LEMON"
+    },
+    "15": {
+        "question": "I am a bird. I am black and I sing in the night",
+        "answer": "NIGHTINGALE",
+        "option1": "PARROT",
+        "option2": "OWL",
+        "option3": "BAT"
+    },
+    "16": {
+        "question": "I am a vegetable. I am green and leafy. People often put me in salads. What am I?",
+        "answer": "LETTUCE",
+        "option1": "CUCUMBER",
+        "option2": "SPINACH",
+        "option3": "KALE"
+    },
+    "17": {
+        "question": "I am a fruit. I am yellow and long. Monkeys love to eat me. What am I?",
+        "answer": "BANANA",
+        "option1": "APPLE",
+        "option2": "LEMON",
+        "option3": "PINEAPPLE"
+    },
+    "18": {
+        "question": "I am a flower. I am purple and people often give me to show gratitude. What am I?",
+        "answer": "LAVENDER",
+        "option1": "ROSE",
+        "option2": "ORCHID",
+        "option3": "VIOLET"
+    },
+    "19": {
+        "question": "I am a vegetable. I am red and round. People like to put me in salads or make soup with me. What am I?",
+        "answer": "TOMATO",
+        "option1": "CARROT",
+        "option2": "PEPPER",
+        "option3": "RADISH"
+    },
+    "20": {
+        "question": "I am an animal. I live in water and I have a shell. What am I?",
+        "answer": "TURTLE",
+        "option1": "RABBIT",
+        "option2": "CRAB",
+        "option3": "SNAIL"
+    },
+    "21": {
+        "question": "I am a vegetable. I am long and orange. Rabbits like to eat me. What am I?",
+        "answer": "CARROT",
+        "option1": "CUCUMBER",
+        "option2": "ZUCCHINI",
+        "option3": "PUMPKIN"
+    },
+    "22": {
+        "question": "I am a fruit. I am yellow and people often make me into smoothies. What am I?",
+        "answer": "BANANA",
+        "option1": "APPLE",
+        "option2": "PINEAPPLE",
+        "option3": "MANGO"
+    },
+    "23": {
+        "question": "I am a vegetable. I am long and orange. Rabbits like to eat me. What am I?",
+        "answer": "CARROT",
+        "option1": "CUCUMBER",
+        "option2": "ZUCCHINI",
+        "option3": "PUMPKIN"
+    },
+    "24": {
+        "question": "I am a fruit. I am small and red. People like to put me on top of ice cream. What am I?",
+        "answer": "CHERRY",
+        "option1": "BANANA",
+        "option2": "GRAPE",
+        "option3": "RASPBERRY"
+    },
+    "25": {
+        "question": "I am an insect. I have colorful wings and I flutter around flowers. What am I?",
+        "answer": "BUTTERFLY",
+        "option1": "ANT",
+        "option2": "BEE",
+        "option3": "LADYBUG"
+    },
+    "26": {
+        "question": "What has keys but can't open locks?",
+        "answer": "A piano",
+        "option1": "A refrigerator",
+        "option2": "A keyboard",
+        "option3": "A map"
+    },
+    "27": {
+        "question": "What has a head, a tail, but no body?",
+        "answer": "A coin",
+        "option1": "A cloud",
+        "option2": "A snake",
+        "option3": "A worm"
+    },
+    "28": {
+        "question": "What can you catch but not throw?",
+        "answer": "A cold",
+        "option1": "A ball",
+        "option2": "A sneeze",
+        "option3": "A song"
+    },
+    "29": {
+        "question": "What has a neck but no head?",
+        "answer": "A bottle",
+        "option1": "A shoe",
+        "option2": "A guitar",
+        "option3": "A shirt"
+    },
+    "30": {
+        "question": "What has to be broken before you can use it?",
+        "answer": "An egg",
+        "option1": "A spoon",
+        "option2": "A nut",
+        "option3": "A glow stick"
+    },
+    "31": {
+        "question": "What has four legs but can't walk?",
+        "answer": "A table",
+        "option1": "A chair",
+        "option2": "A bed",
+        "option3": "A stool"
+    },
+    "32": {
+        "question": "What has eyes but can't see?",
+        "answer": "A potato",
+        "option1": "A book",
+        "option2": "A needle",
+        "option3": "A storm"
+    },
+    "33": {
+        "question": "What starts with the letter 't', is filled with 't', and ends in 't'?",
+        "answer": "A teapot",
+        "option1": "A backpack",
+        "option2": "A tent",
+        "option3": "A toast"
+    },
+    "34": {
+        "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "answer": "The letter 'm'",
+        "option1": "The letter 'z'",
+        "option2": "The letter 'e'",
+        "option3": "The letter 'o'"
+    },
+    "35": {
+        "question": "What has a face and two hands but no arms or legs?",
+        "answer": "A clock",
+        "option1": "A mirror",
+        "option2": "A watch",
+        "option3": "A compass"
+    },
+    "36": {
+        "question": "What has many keys but can't open a single lock?",
+        "answer": "A piano",
+        "option1": "A bicycle",
+        "option2": "A keyboard",
+        "option3": "A map"
+    },
+    "37": {
+        "question": "What gets wetter as it dries?",
+        "answer": "A towel",
+        "option1": "A rock",
+        "option2": "A sponge",
+        "option3": "A mop"
+    },
+    "38": {
+        "question": "What has a mouth but can't eat?",
+        "answer": "A river",
+        "option1": "A tree",
+        "option2": "A cave",
+        "option3": "A bottle"
+    },
+    "39": {
+        "question": "What has branches but no fruit, trunk or leaves?",
+        "answer": "A bank",
+        "option1": "A park",
+        "option2": "A library",
+        "option3": "A river"
+    },
+    "40": {
+        "question": "What has one eye but can't see?",
+        "answer": "A needle",
+        "option1": "A pencil",
+        "option2": "A button",
+        "option3": "A cyclone"
+    },
+    "41": {
+        "question": "What goes up but never comes down?",
+        "answer": "Your age",
+        "option1": "A kite",
+        "option2": "Smoke",
+        "option3": "A balloon"
+    },
+    "42": {
+        "question": "What belongs to you but other people use it more than you do?",
+        "answer": "Your name",
+        "option1": "Your hat",
+        "option2": "Your phone",
+        "option3": "Your signature"
+    },
+    "43": {
+        "question": "What can travel around the world while staying in a corner?",
+        "answer": "A stamp",
+        "option1": "A suitcase",
+        "option2": "A map",
+        "option3": "A globe"
+    },
+    "44": {
+        "question": "What has keys but can't open doors?",
+        "answer": "A keyboard",
+        "option1": "A boat",
+        "option2": "A piano",
+        "option3": "A map"
+    },
+    "45": {
+        "question": "What comes down but never goes up?",
+        "answer": "Rain",
+        "option1": "A bird",
+        "option2": "Snow",
+        "option3": "A leaf"
+    },
+    "46": {
+        "question": "What has a head, a tail, is brown, and has no legs?",
+        "answer": "A penny",
+        "option1": "A book",
+        "option2": "A coin",
+        "option3": "A button"
+    },
+    "47": {
+        "question": "What has teeth but can't bite?",
+        "answer": "A comb",
+        "option1": "A knife",
+        "option2": "A saw",
+        "option3": "A zipper"
+    },
+    "48": {
+        "question": "What has hands but can't clap?",
+        "answer": "A clock",
+        "option1": "A glove",
+        "option2": "A watch",
+        "option3": "A robot"
+    },
+    "49": {
+        "question": "What is full of holes but still holds water?",
+        "answer": "A sponge",
+        "option1": "A bucket",
+        "option2": "A net",
+        "option3": "A sieve"
+    },
+    "50": {
+        "question": "What can you hear but not touch or see?",
+        "answer": "Your voice",
+        "option1": "A rainbow",
+        "option2": "An echo",
+        "option3": "Music"
+    }
+}

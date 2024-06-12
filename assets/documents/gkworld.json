@@ -1,0 +1,352 @@
+{
+    "1": {
+        "question": "How many continents are there?",
+        "answer": "SEVEN",
+        "option1": "FIVE",
+        "option2": "NINE",
+        "option3": "TEN"
+    },
+    "2": {
+        "question": "What is the largest ocean on Earth?",
+        "answer": "PACIFIC",
+        "option1": "ATLANTIC",
+        "option2": "INDIAN",
+        "option3": "ARCTIC"
+    },
+    "3": {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "answer": "JAPAN",
+        "option1": "CHINA",
+        "option2": "AUSTRALIA",
+        "option3": "CANADA"
+    },
+    "4": {
+        "question": "Which continent is home to the Amazon Rainforest?",
+        "answer": "SOUTH AMERICA",
+        "option1": "AFRICA",
+        "option2": "NORTH AMERICA",
+        "option3": "ASIA"
+    },
+    "5": {
+        "question": "Which country is famous for the Great Wall?",
+        "answer": "CHINA",
+        "option1": "INDIA",
+        "option2": "EGYPT",
+        "option3": "PERU"
+    },
+    "6": {
+        "question": "Which is the largest country by land area?",
+        "answer": "RUSSIA",
+        "option1": "CANADA",
+        "option2": "UNITED STATES",
+        "option3": "CHINA"
+    },
+    "7": {
+        "question": "What is the capital of Australia?",
+        "answer": "CANBERRA",
+        "option1": "SYDNEY",
+        "option2": "MELBOURNE",
+        "option3": "PERTH"
+    },
+    "8": {
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "answer": "AFRICA",
+        "option1": "EUROPE",
+        "option2": "ANTARCTICA",
+        "option3": "ASIA"
+    },
+    "9": {
+        "question": "Which country is famous for the Eiffel Tower?",
+        "answer": "FRANCE",
+        "option1": "ITALY",
+        "option2": "SPAIN",
+        "option3": "GERMANY"
+    },
+    "10": {
+        "question": "Which continent is home to the Sahara Desert?",
+        "answer": "AFRICA",
+        "option1": "AUSTRALIA",
+        "option2": "SOUTH AMERICA",
+        "option3": "ASIA"
+    },
+    "11": {
+        "question": "What is the capital of Italy?",
+        "answer": "ROME",
+        "option1": "VENICE",
+        "option2": "MILAN",
+        "option3": "FLORENCE"
+    },
+    "12": {
+        "question": "Which ocean is located between Africa and Australia?",
+        "answer": "INDIAN",
+        "option1": "ATLANTIC",
+        "option2": "PACIFIC",
+        "option3": "ARCTIC"
+    },
+    "13": {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "answer": "NORWAY",
+        "option1": "CANADA",
+        "option2": "SWEDEN",
+        "option3": "FINLAND"
+    },
+    "14": {
+        "question": "What is the capital of Canada?",
+        "answer": "OTTAWA",
+        "option1": "TORONTO",
+        "option2": "VANCOUVER",
+        "option3": "MONTREAL"
+    },
+    "15": {
+        "question": "Which is the smallest continent?",
+        "answer": "AUSTRALIA",
+        "option1": "NORTH AMERICA",
+        "option2": "EUROPE",
+        "option3": "ASIA"
+    },
+    "16": {
+        "question": "What is the tallest mountain in the world?",
+        "answer": "EVEREST",
+        "option1": "K2",
+        "option2": "KANGCHENJUNGA",
+        "option3": "LOTHSE"
+    },
+    "17": {
+        "question": "Which country is famous for tulips and windmills?",
+        "answer": "NETHERLANDS",
+        "option1": "SWITZERLAND",
+        "option2": "AUSTRIA",
+        "option3": "DENMARK"
+    },
+    "18": {
+        "question": "What is the capital of Brazil?",
+        "answer": "BRASILIA",
+        "option1": "RIO DE JANEIRO",
+        "option2": "SAO PAULO",
+        "option3": "SALVADOR"
+    },
+    "19": {
+        "question": "Which continent is often referred to as the 'Roof of the World'?",
+        "answer": "ASIA",
+        "option1": "AFRICA",
+        "option2": "EUROPE",
+        "option3": "ANTARCTICA"
+    },
+    "20": {
+        "question": "What is the longest river in the world?",
+        "answer": "NILE",
+        "option1": "AMAZON",
+        "option2": "YANGTZE",
+        "option3": "MISSISSIPPI"
+    },
+    "21": {
+        "question": "Which country is known as the 'Land of Fire and Ice'?",
+        "answer": "ICELAND",
+        "option1": "GREENLAND",
+        "option2": "IRELAND",
+        "option3": "FINLAND"
+    },
+    "22": {
+        "question": "What is the capital of India?",
+        "answer": "NEW DELHI",
+        "option1": "MUMBAI",
+        "option2": "KOLKATA",
+        "option3": "BANGALORE"
+    },
+    "23": {
+        "question": "Which ocean is located between Europe and North America?",
+        "answer": "ATLANTIC",
+        "option1": "PACIFIC",
+        "option2": "INDIAN",
+        "option3": "ARCTIC"
+    },
+    "24": {
+        "question": "Which country is famous for the pyramids?",
+        "answer": "EGYPT",
+        "option1": "MEXICO",
+        "option2": "PERU",
+        "option3": "GREECE"
+    },
+    "25": {
+        "question": "What is the capital of China?",
+        "answer": "BEIJING",
+        "option1": "SHANGHAI",
+        "option2": "HONG KONG",
+        "option3": "GUANGZHOU"
+    },
+    "26": {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "answer": "NORWAY",
+        "option1": "SWEDEN",
+        "option2": "FINLAND",
+        "option3": "ICELAND"
+    },
+    "27": {
+        "question": "What is the capital of France?",
+        "answer": "PARIS",
+        "option1": "LONDON",
+        "option2": "ROME",
+        "option3": "MADRID"
+    },
+    "28": {
+        "question": "Which ocean is located between Asia and Australia?",
+        "answer": "INDIAN",
+        "option1": "PACIFIC",
+        "option2": "ATLANTIC",
+        "option3": "ARCTIC"
+    },
+    "29": {
+        "question": "Which country is famous for the Colosseum?",
+        "answer": "ITALY",
+        "option1": "GREECE",
+        "option2": "SPAIN",
+        "option3": "TURKEY"
+    },
+    "30": {
+        "question": "What is the capital of Russia?",
+        "answer": "MOSCOW",
+        "option1": "ST. PETERSBURG",
+        "option2": "KIEV",
+        "option3": "VLADIVOSTOK"
+    },
+    "31": {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "answer": "JAPAN",
+        "option1": "CHINA",
+        "option2": "KOREA",
+        "option3": "VIETNAM"
+    },
+    "32": {
+        "question": "What is the smallest country in the world?",
+        "answer": "VATICAN CITY",
+        "option1": "MONACO",
+        "option2": "SAN MARINO",
+        "option3": "LIECHTENSTEIN"
+    },
+    "33": {
+        "question": "Which continent is home to the Amazon Rainforest?",
+        "answer": "SOUTH AMERICA",
+        "option1": "AFRICA",
+        "option2": "NORTH AMERICA",
+        "option3": "ASIA"
+    },
+    "34": {
+        "question": "What is the capital of Australia?",
+        "answer": "CANBERRA",
+        "option1": "SYDNEY",
+        "option2": "MELBOURNE",
+        "option3": "PERTH"
+    },
+    "35": {
+        "question": "Which country is famous for the Great Wall?",
+        "answer": "CHINA",
+        "option1": "INDIA",
+        "option2": "MEXICO",
+        "option3": "PERU"
+    },
+    "36": {
+        "question": "Which ocean is located between Africa and South America?",
+        "answer": "ATLANTIC",
+        "option1": "PACIFIC",
+        "option2": "INDIAN",
+        "option3": "ARCTIC"
+    },
+    "37": {
+        "question": "What is the capital of Canada?",
+        "answer": "OTTAWA",
+        "option1": "TORONTO",
+        "option2": "VANCOUVER",
+        "option3": "MONTREAL"
+    },
+    "38": {
+        "question": "Which country is famous for the kangaroo?",
+        "answer": "AUSTRALIA",
+        "option1": "NEW ZEALAND",
+        "option2": "SOUTH AFRICA",
+        "option3": "ARGENTINA"
+    },
+    "39": {
+        "question": "What is the capital of Spain?",
+        "answer": "MADRID",
+        "option1": "BARCELONA",
+        "option2": "VALENCIA",
+        "option3": "SEVILLE"
+    },
+    "40": {
+        "question": "Which continent is known as the 'Land of Fire'?",
+        "answer": "SOUTH AMERICA",
+        "option1": "AFRICA",
+        "option2": "ANTARCTICA",
+        "option3": "EUROPE"
+    },
+    "41": {
+        "question": "What is the capital of Germany?",
+        "answer": "BERLIN",
+        "option1": "MUNICH",
+        "option2": "FRANKFURT",
+        "option3": "HAMBURG"
+    },
+    "42": {
+        "question": "Which ocean is located between Asia and North America?",
+        "answer": "PACIFIC",
+        "option1": "ATLANTIC",
+        "option2": "INDIAN",
+        "option3": "ARCTIC"
+    },
+    "43": {
+        "question": "Which country is known as the 'Land of the Long White Cloud'?",
+        "answer": "NEW ZEALAND",
+        "option1": "AUSTRALIA",
+        "option2": "CANADA",
+        "option3": "IRELAND"
+    },
+    "44": {
+        "question": "What is the capital of South Africa?",
+        "answer": "PRETORIA",
+        "option1": "CAPE TOWN",
+        "option2": "JOHANNESBURG",
+        "option3": "DURBAN"
+    },
+    "45": {
+        "question": "Which country is known as the 'Land of Smiles'?",
+        "answer": "THAILAND",
+        "option1": "MALAYSIA",
+        "option2": "INDONESIA",
+        "option3": "VIETNAM"
+    },
+    "46": {
+        "question": "What is the capital of Argentina?",
+        "answer": "BUENOS AIRES",
+        "option1": "RIO DE JANEIRO",
+        "option2": "SAO PAULO",
+        "option3": "CORDOBA"
+    },
+    "47": {
+        "question": "Which continent is home to the Himalayas?",
+        "answer": "ASIA",
+        "option1": "AFRICA",
+        "option2": "EUROPE",
+        "option3": "SOUTH AMERICA"
+    },
+    "48": {
+        "question": "What is the capital of Egypt?",
+        "answer": "CAIRO",
+        "option1": "ALEXANDRIA",
+        "option2": "LUXOR",
+        "option3": "GIZA"
+    },
+    "49": {
+        "question": "Which ocean is located between Europe and Africa?",
+        "answer": "ATLANTIC",
+        "option1": "PACIFIC",
+        "option2": "INDIAN",
+        "option3": "ARCTIC"
+    },
+    "50": {
+        "question": "What is the capital of Turkey?",
+        "answer": "ANKARA",
+        "option1": "ISTANBUL",
+        "option2": "IZMIR",
+        "option3": "ANTALYA"
+    }
+}

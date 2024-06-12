@@ -1,0 +1,352 @@
+{
+    "1": {
+        "question": "Which planet is closest to the Sun?",
+        "answer": "MERCURY",
+        "option1": "VENUS",
+        "option2": "EARTH",
+        "option3": "MARS"
+    },
+    "2": {
+        "question": "What is the largest planet in our solar system?",
+        "answer": "JUPITER",
+        "option1": "SATURN",
+        "option2": "NEPTUNE",
+        "option3": "URANUS"
+    },
+    "3": {
+        "question": "What is the second planet from the Sun?",
+        "answer": "VENUS",
+        "option1": "EARTH",
+        "option2": "MARS",
+        "option3": "SATURN"
+    },
+    "4": {
+        "question": "What is the hottest planet in our solar system?",
+        "answer": "VENUS",
+        "option1": "MERCURY",
+        "option2": "EARTH",
+        "option3": "MARS"
+    },
+    "5": {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answer": "MARS",
+        "option1": "JUPITER",
+        "option2": "VENUS",
+        "option3": "SATURN"
+    },
+    "6": {
+        "question": "What is the third planet from the Sun?",
+        "answer": "EARTH",
+        "option1": "MARS",
+        "option2": "VENUS",
+        "option3": "JUPITER"
+    },
+    "7": {
+        "question": "Which planet has the most moons?",
+        "answer": "JUPITER",
+        "option1": "SATURN",
+        "option2": "MARS",
+        "option3": "VENUS"
+    },
+    "8": {
+        "question": "What is the smallest planet in our solar system?",
+        "answer": "MERCURY",
+        "option1": "VENUS",
+        "option2": "EARTH",
+        "option3": "MARS"
+    },
+    "9": {
+        "question": "What is the ringed planet?",
+        "answer": "SATURN",
+        "option1": "URANUS",
+        "option2": "NEPTUNE",
+        "option3": "JUPITER"
+    },
+    "10": {
+        "question": "Which planet is known as the 'Morning Star' and 'Evening Star'?",
+        "answer": "VENUS",
+        "option1": "MARS",
+        "option2": "EARTH",
+        "option3": "MERCURY"
+    },
+    "11": {
+        "question": "Which planet has the Great Red Spot?",
+        "answer": "JUPITER",
+        "option1": "SATURN",
+        "option2": "VENUS",
+        "option3": "MARS"
+    },
+    "12": {
+        "question": "What is the only planet known to support life?",
+        "answer": "EARTH",
+        "option1": "MARS",
+        "option2": "VENUS",
+        "option3": "JUPITER"
+    },
+    "13": {
+        "question": "Which planet is nicknamed 'The Ice Giant'?",
+        "answer": "NEPTUNE",
+        "option1": "URANUS",
+        "option2": "SATURN",
+        "option3": "JUPITER"
+    },
+    "14": {
+        "question": "What is the fourth planet from the Sun?",
+        "answer": "MARS",
+        "option1": "EARTH",
+        "option2": "VENUS",
+        "option3": "JUPITER"
+    },
+    "15": {
+        "question": "What is the coldest planet in our solar system?",
+        "answer": "NEPTUNE",
+        "option1": "URANUS",
+        "option2": "SATURN",
+        "option3": "MARS"
+    },
+    "16": {
+        "question": "Which planet has the most visible rings?",
+        "answer": "SATURN",
+        "option1": "JUPITER",
+        "option2": "URANUS",
+        "option3": "NEPTUNE"
+    },
+    "17": {
+        "question": "What is the hottest planet in our solar system?",
+        "answer": "VENUS",
+        "option1": "MERCURY",
+        "option2": "EARTH",
+        "option3": "MARS"
+    },
+    "18": {
+        "question": "What is the seventh planet from the Sun?",
+        "answer": "URANUS",
+        "option1": "NEPTUNE",
+        "option2": "SATURN",
+        "option3": "JUPITER"
+    },
+    "19": {
+        "question": "What is the largest moon in our solar system?",
+        "answer": "GANYMEDE",
+        "option1": "TITAN",
+        "option2": "EUROPA",
+        "option3": "CALLISTO"
+    },
+    "20": {
+        "question": "Which planet has the shortest day?",
+        "answer": "JUPITER",
+        "option1": "MERCURY",
+        "option2": "VENUS",
+        "option3": "EARTH"
+    },
+    "21": {
+        "question": "What is the smallest planet in our solar system?",
+        "answer": "MERCURY",
+        "option1": "VENUS",
+        "option2": "EARTH",
+        "option3": "MARS"
+    },
+    "22": {
+        "question": "What is the eighth planet from the Sun?",
+        "answer": "NEPTUNE",
+        "option1": "SATURN",
+        "option2": "URANUS",
+        "option3": "JUPITER"
+    },
+    "23": {
+        "question": "Which planet is known as the 'Evening Star'?",
+        "answer": "VENUS",
+        "option1": "MARS",
+        "option2": "EARTH",
+        "option3": "MERCURY"
+    },
+    "24": {
+        "question": "What is the fifth planet from the Sun?",
+        "answer": "JUPITER",
+        "option1": "SATURN",
+        "option2": "VENUS",
+        "option3": "EARTH"
+    },
+    "25": {
+        "question": "What is the largest volcano in our solar system?",
+        "answer": "OLYMPUS MONS",
+        "option1": "MOUNT EVEREST",
+        "option2": "MAUNA KEA",
+        "option3": "KILIMANJARO"
+    },
+    "26": {
+        "question": "Which planet has the most elliptical orbit?",
+        "answer": "PLUTO",
+        "option1": "MERCURY",
+        "option2": "VENUS",
+        "option3": "MARS"
+    },
+    "27": {
+        "question": "What is the sixth planet from the Sun?",
+        "answer": "SATURN",
+        "option1": "URANUS",
+        "option2": "NEPTUNE",
+        "option3": "JUPITER"
+    },
+    "28": {
+        "question": "What is the brightest planet in the night sky?",
+        "answer": "VENUS",
+        "option1": "MERCURY",
+        "option2": "MARS",
+        "option3": "SATURN"
+    },
+    "29": {
+        "question": "Which planet has the longest year?",
+        "answer": "NEPTUNE",
+        "option1": "SATURN",
+        "option2": "JUPITER",
+        "option3": "URANUS"
+    },
+    "30": {
+        "question": "What is the smallest dwarf planet?",
+        "answer": "CERES",
+        "option1": "PLUTO",
+        "option2": "ERIS",
+        "option3": "HAUMEA"
+    },
+    "31": {
+        "question": "Which planet is known as the 'Blue Planet'?",
+        "answer": "EARTH",
+        "option1": "NEPTUNE",
+        "option2": "URANUS",
+        "option3": "MARS"
+    },
+    "32": {
+        "question": "What is the only planet known to have life?",
+        "answer": "EARTH",
+        "option1": "MARS",
+        "option2": "VENUS",
+        "option3": "JUPITER"
+    },
+    "33": {
+        "question": "Which planet has the tallest mountain?",
+        "answer": "MARS",
+        "option1": "EARTH",
+        "option2": "VENUS",
+        "option3": "MERCURY"
+    },
+    "34": {
+        "question": "What is the ninth planet from the Sun?",
+        "answer": "PLUTO",
+        "option1": "URANUS",
+        "option2": "NEPTUNE",
+        "option3": "SATURN"
+    },
+    "35": {
+        "question": "What is the largest moon of Saturn?",
+        "answer": "TITAN",
+        "option1": "EUROPA",
+        "option2": "RHEA",
+        "option3": "IAPETUS"
+    },
+    "36": {
+        "question": "Which planet has the most volcanoes?",
+        "answer": "VENUS",
+        "option1": "MARS",
+        "option2": "EARTH",
+        "option3": "MERCURY"
+    },
+    "37": {
+        "question": "What is the only planet in our solar system to rotate on its side?",
+        "answer": "URANUS",
+        "option1": "NEPTUNE",
+        "option2": "SATURN",
+        "option3": "JUPITER"
+    },
+    "38": {
+        "question": "Which planet is known as the 'Ice Giant'?",
+        "answer": "NEPTUNE",
+        "option1": "SATURN",
+        "option2": "URANUS",
+        "option3": "JUPITER"
+    },
+    "39": {
+        "question": "What is the closest star to Earth?",
+        "answer": "SUN",
+        "option1": "MOON",
+        "option2": "SIRIUS",
+        "option3": "ALPHA CENTAURI"
+    },
+    "40": {
+        "question": "What is the largest moon of Jupiter?",
+        "answer": "GANYMEDE",
+        "option1": "IO",
+        "option2": "EUROPA",
+        "option3": "CALLISTO"
+    },
+    "41": {
+        "question": "Which planet has the largest known canyon?",
+        "answer": "MARS",
+        "option1": "EARTH",
+        "option2": "VENUS",
+        "option3": "MERCURY"
+    },
+    "42": {
+        "question": "What is the brightest star in the night sky?",
+        "answer": "SIRIUS",
+        "option1": "POLARIS",
+        "option2": "BETELGEUSE",
+        "option3": "ALPHA CENTAURI"
+    },
+    "43": {
+        "question": "Which planet is known as the 'Morning Star'?",
+        "answer": "VENUS",
+        "option1": "MARS",
+        "option2": "EARTH",
+        "option3": "MERCURY"
+    },
+    "44": {
+        "question": "What is the largest moon of Uranus?",
+        "answer": "TITANIA",
+        "option1": "MIRANDA",
+        "option2": "ARIEL",
+        "option3": "UMBRIEL"
+    },
+    "45": {
+        "question": "What is the largest moon of Neptune?",
+        "answer": "TRITON",
+        "option1": "NEREID",
+        "option2": "PROTEUS",
+        "option3": "LARISSA"
+    },
+    "46": {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answer": "MARS",
+        "option1": "VENUS",
+        "option2": "MERCURY",
+        "option3": "EARTH"
+    },
+    "47": {
+        "question": "What is the hottest planet in our solar system?",
+        "answer": "VENUS",
+        "option1": "MERCURY",
+        "option2": "EARTH",
+        "option3": "MARS"
+    },
+    "48": {
+        "question": "What is the brightest planet in the night sky?",
+        "answer": "VENUS",
+        "option1": "MERCURY",
+        "option2": "MARS",
+        "option3": "SATURN"
+    },
+    "49": {
+        "question": "Which planet is known as the 'Blue Planet'?",
+        "answer": "EARTH",
+        "option1": "NEPTUNE",
+        "option2": "URANUS",
+        "option3": "MARS"
+    },
+    "50": {
+        "question": "What is the only planet known to have life?",
+        "answer": "EARTH",
+        "option1": "MARS",
+        "option2": "VENUS",
+        "option3": "JUPITER"
+    }
+}

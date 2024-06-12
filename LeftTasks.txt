@@ -1,0 +1,5 @@
+- Individual User management ***
+- Device based user instead of email based ***
+- Point system ***
+- Decoring games ***
+- Creating bonus level **

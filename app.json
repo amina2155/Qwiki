@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "MyApp",
+    "slug": "MyApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/SplashPink.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.myapp.myapp",
+      "jsEngine": "hermes"
+    },
+    "extra": {
+      "firebaseApiKey": "AIzaSyDPWyc07TZA4PhcHrqCBC0imm7jdFrIbMI",
+      "firebaseAuthDomain": "qwiki-cb7df.firebaseapp.com",
+      "firebaseDatabaseURL": "https://qwiki-cb7df-default-rtdb.firebaseio.com",
+      "firebaseProjectId": "qwiki-cb7df",
+      "firebaseStorageBucket": "qwiki-cb7df.appspot.com",
+      "firebaseMessagingSenderId": "427941826541",
+      "firebaseAppId": "1:427941826541:android:4d7e6c1fce4ef210daa1e4",
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "bc1991ae-ee8e-49ba-9afd-d329d534c98f"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-asset",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

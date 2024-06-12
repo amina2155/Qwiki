@@ -1,0 +1,317 @@
+{
+    "1": {
+        "question": "If you have 4 pencils and you give 2 away, how many pencils do you have left?",
+        "answer": "TWO",
+        "option1": "FOUR",
+        "option2": "THREE",
+        "option3": "ONE"
+    },
+    "2": {
+        "question": "There are 3 cats on the roof. 1 cat jumps down. How many cats are left on the roof?",
+        "answer": "NONE",
+        "option1": "TWO",
+        "option2": "ONE",
+        "option3": "THREE"
+    },
+    "3": {
+        "question": "If you have 7 cookies and you eat 3, how many cookies do you have left?",
+        "answer": "FOUR",
+        "option1": "SEVEN",
+        "option2": "THREE",
+        "option3": "FIVE"
+    },
+    "4": {
+        "question": "There are 5 ducks in a pond. 2 ducks swim away. How many ducks are left in the pond?",
+        "answer": "FIVE",
+        "option1": "THREE",
+        "option2": "TWO",
+        "option3": "NONE"
+    },
+    "5": {
+        "question": "There are 4 apples on the tree. You pick 2 apples. How many apples do you have?",
+        "answer": "TWO",
+        "option1": "FOUR",
+        "option2": "THREE",
+        "option3": "ONE"
+    },
+    "6": {
+        "question": "There are 6 balloons. 3 balloons pop. How many balloons are left?",
+        "answer": "THREE",
+        "option1": "SIX",
+        "option2": "FOUR",
+        "option3": "TWO"
+    },
+    "7": {
+        "question": "If you have 8 crayons and you give 3 to your friend, how many crayons do you have left?",
+        "answer": "FIVE",
+        "option1": "EIGHT",
+        "option2": "FOUR",
+        "option3": "THREE"
+    },
+    "8": {
+        "question": "There are 3 fish in a tank. 1 fish swims away. How many fish are left in the tank?",
+        "answer": "THREE",
+        "option1": "TWO",
+        "option2": "ONE",
+        "option3": "NONE"
+    },
+    "9": {
+        "question": "There are 7 cookies in a jar. 4 cookies are eaten. How many cookies are left in the jar?",
+        "answer": "THREE",
+        "option1": "SEVEN",
+        "option2": "FOUR",
+        "option3": "TWO"
+    },
+    "10": {
+        "question": "There are 5 frogs sitting on a log. 2 frogs jump off. How many frogs are left on the log?",
+        "answer": "FIVE",
+        "option1": "THREE",
+        "option2": "TWO",
+        "option3": "NONE"
+    },
+    "11": {
+        "question": "There are 4 birds sitting on a wire. 3 more birds join them. How many birds are there in total?",
+        "answer": "SEVEN",
+        "option1": "FOUR",
+        "option2": "THREE",
+        "option3": "SIX"
+    },
+    "12": {
+        "question": "There are 6 stars in the sky. 2 stars twinkle and disappear. How many stars are left?",
+        "answer": "SIX",
+        "option1": "FOUR",
+        "option2": "TWO",
+        "option3": "NONE"
+    },
+    "13": {
+        "question": "There are 8 ladybugs on a leaf. 4 ladybugs fly away. How many ladybugs are left on the leaf?",
+        "answer": "FOUR",
+        "option1": "EIGHT",
+        "option2": "THREE",
+        "option3": "FIVE"
+    },
+    "14": {
+        "question": "There are 3 butterflies in the garden. 1 butterfly flutters away. How many butterflies are left?",
+        "answer": "TWO",
+        "option1": "THREE",
+        "option2": "ONE",
+        "option3": "NONE"
+    },
+    "15": {
+        "question": "There are 5 cupcakes on a plate. 3 cupcakes are eaten. How many cupcakes are left on the plate?",
+        "answer": "TWO",
+        "option1": "FIVE",
+        "option2": "THREE",
+        "option3": "FOUR"
+    },
+    "16": {
+        "question": "If you have 10 candies and you give 5 to your friend, how many candies do you have left?",
+        "answer": "FIVE",
+        "option1": "TEN",
+        "option2": "FOUR",
+        "option3": "SIX"
+    },
+    "17": {
+        "question": "There are 6 birds on a branch. 2 birds fly away. How many birds are left on the branch?",
+        "answer": "FOUR",
+        "option1": "SIX",
+        "option2": "TWO",
+        "option3": "THREE"
+    },
+    "18": {
+        "question": "There are 8 crayons in a box. 3 crayons are broken. How many crayons are left in the box?",
+        "answer": "FIVE",
+        "option1": "EIGHT",
+        "option2": "FOUR",
+        "option3": "THREE"
+    },
+    "19": {
+        "question": "There are 4 puppies playing in the garden. 1 puppy runs away. How many puppies are left?",
+        "answer": "THREE",
+        "option1": "FOUR",
+        "option2": "TWO",
+        "option3": "ONE"
+    },
+    "20": {
+        "question": "There are 7 apples in a basket. 2 apples fall out. How many apples are left in the basket?",
+        "answer": "FIVE",
+        "option1": "SEVEN",
+        "option2": "FOUR",
+        "option3": "THREE"
+    },
+    "21": {
+        "question": "There are 9 balloons. 4 balloons pop. How many balloons are left?",
+        "answer": "FIVE",
+        "option1": "NINE",
+        "option2": "FOUR",
+        "option3": "THREE"
+    },
+    "22": {
+        "question": "There are 5 frogs sitting on a log. 2 frogs jump off. How many frogs are left on the log?",
+        "answer": "THREE",
+        "option1": "FIVE",
+        "option2": "TWO",
+        "option3": "ONE"
+    },
+    "23": {
+        "question": "There are 4 birds sitting on a wire. 3 more birds join them. How many birds are there in total?",
+        "answer": "SEVEN",
+        "option1": "FOUR",
+        "option2": "THREE",
+        "option3": "SIX"
+    },
+    "24": {
+        "question": "There are 6 stars in the sky. 2 stars twinkle and disappear. How many stars are left?",
+        "answer": "SIX",
+        "option1": "FOUR",
+        "option2": "TWO",
+        "option3": "NONE"
+    },
+    "25": {
+        "question": "There are 8 ladybugs on a leaf. 4 ladybugs fly away. How many ladybugs are left on the leaf?",
+        "answer": "FOUR",
+        "option1": "EIGHT",
+        "option2": "THREE",
+        "option3": "FIVE"
+    },
+    "26": {
+        "question": "If you have 6 marbles and you give 2 to your friend, how many marbles do you have left?",
+        "answer": "FOUR",
+        "option1": "SIX",
+        "option2": "TWO",
+        "option3": "THREE"
+    },
+    "27": {
+        "question": "If you have 10 candies and you eat 3, how many candies do you have left?",
+        "answer": "SEVEN",
+        "option1": "TEN",
+        "option2": "SIX",
+        "option3": "THREE"
+    },
+    "28": {
+        "question": "If you have 8 balloons and you give 4 away, how many balloons do you have left?",
+        "answer": "FOUR",
+        "option1": "EIGHT",
+        "option2": "THREE",
+        "option3": "FIVE"
+    },
+    "29": {
+        "question": "If you have 5 toy cars and you lose 2, how many toy cars do you have left?",
+        "answer": "THREE",
+        "option1": "FIVE",
+        "option2": "TWO",
+        "option3": "FOUR"
+    },
+    "30": {
+        "question": "If you have 9 stickers and you share 3 with your sister, how many stickers do you each have?",
+        "answer": "THREE",
+        "option1": "SIX",
+        "option2": "FOUR",
+        "option3": "NINE"
+    },
+    "31": {
+        "question": "If you have 7 crayons and you break 2, how many crayons do you have left?",
+        "answer": "FIVE",
+        "option1": "SEVEN",
+        "option2": "FOUR",
+        "option3": "THREE"
+    },
+    "32": {
+        "question": "If you have 12 cookies and you eat 6, how many cookies do you have left?",
+        "answer": "SIX",
+        "option1": "TWELVE",
+        "option2": "FOUR",
+        "option3": "FIVE"
+    },
+    "33": {
+        "question": "If you have 15 candies and you give 8 to your friend, how many candies do you have left?",
+        "answer": "SEVEN",
+        "option1": "FIFTEEN",
+        "option2": "SIX",
+        "option3": "EIGHT"
+    },
+    "34": {
+        "question": "If you have 4 teddy bears and you give 1 to your cousin, how many teddy bears do you have left?",
+        "answer": "THREE",
+        "option1": "FOUR",
+        "option2": "TWO",
+        "option3": "ONE"
+    },
+    "35": {
+        "question": "If you have 20 stickers and you lose 5, how many stickers do you have left?",
+        "answer": "FIFTEEN",
+        "option1": "TWENTY",
+        "option2": "TEN",
+        "option3": "FIVE"
+    },
+    "36": {
+        "question": "If you have 8 pencils and you sharpen 3, how many pencils do you have now?",
+        "answer": "EIGHT",
+        "option1": "FIVE",
+        "option2": "THREE",
+        "option3": "FOUR"
+    },
+    "37": {
+        "question": "If you have 10 apples and you eat 2, how many apples do you have left?",
+        "answer": "EIGHT",
+        "option1": "TEN",
+        "option2": "SIX",
+        "option3": "FOUR"
+    },
+    "38": {
+        "question": "If you have 6 books and you borrow 2 from the library, how many books do you have now?",
+        "answer": "SIX",
+        "option1": "FOUR",
+        "option2": "EIGHT",
+        "option3": "TWO"
+    },
+    "39": {
+        "question": "If you have 9 toy soldiers and you give 4 to your friend, how many toy soldiers do you have left?",
+        "answer": "FIVE",
+        "option1": "NINE",
+        "option2": "FOUR",
+        "option3": "THREE"
+    },
+    "40": {
+        "question": "If you have 12 candies and you share them equally with your friends, and you have 3 friends, how many candies does each friend get?",
+        "answer": "FOUR",
+        "option1": "THREE",
+        "option2": "SIX",
+        "option3": "FIVE"
+    },
+    "41": {
+        "question": "If you have 16 crayons and you give half to your brother, how many crayons do you have left?",
+        "answer": "EIGHT",
+        "option1": "SIX",
+        "option2": "FOUR",
+        "option3": "TEN"
+    },
+    "42": {
+        "question": "If you have 10 balloons and 3 pop, how many balloons are left?",
+        "answer": "SEVEN",
+        "option1": "TEN",
+        "option2": "SIX",
+        "option3": "FOUR"
+    },
+    "43": {
+        "question": "If you have 7 oranges and you give 2 to your mom, how many oranges do you have left?",
+        "answer": "FIVE",
+        "option1": "SEVEN",
+        "option2": "FOUR",
+        "option3": "THREE"
+    },
+    "44": {
+        "question": "If you have 5 pieces of cake and you eat 2, how many pieces of cake do you have left?",
+        "answer": "THREE",
+        "option1": "FIVE",
+        "option2": "TWO",
+        "option3": "FOUR"
+    },
+    "45": {
+        "question": "If you have 8 stickers and you share them equally with your 2 friends, how many stickers does each friend get?",
+        "answer": "FOUR",
+        "option1": "THREE",
+        "option2": "TWO",
+        "option3": "FIVE"
+    }
+}

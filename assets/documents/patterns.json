@@ -1,0 +1,353 @@
+{
+    "1": {
+        "question": "What comes next in this pattern: circle, square, triangle?",
+        "answer": "RECTANGLE",
+        "option1": "HEXAGON",
+        "option2": "OVAL",
+        "option3": "DIAMOND"
+    },
+    "2": {
+        "question": "If you see a pattern of stars in the sky, what might it be called?",
+        "answer": "CONSTELLATION",
+        "option1": "SOLAR SYSTEM",
+        "option2": "GALAXY",
+        "option3": "COMET"
+    },
+    "3": {
+        "question": "What is the pattern of stripes on a zebra called?",
+        "answer": "STRIPES",
+        "option1": "SPOTS",
+        "option2": "SWIRLS",
+        "option3": "CHECKS"
+    },
+    "4": {
+        "question": "If you mix red and yellow, what color do you get?",
+        "answer": "ORANGE",
+        "option1": "PURPLE",
+        "option2": "GREEN",
+        "option3": "BROWN"
+    },
+    "5": {
+        "question": "Finish the pattern: Monday, Tuesday, Wednesday, Thursday, Friday, ...",
+        "answer": "SATURDAY",
+        "option1": "SUNDAY",
+        "option2": "MONDAY",
+        "option3": "WEEKEND"
+    },
+    "6": {
+        "question": "What do you call a pattern of raindrops falling?",
+        "answer": "DRIZZLE",
+        "option1": "DOWNPOUR",
+        "option2": "SHOWER",
+        "option3": "SPLASH"
+    },
+    "7": {
+        "question": "What pattern do bees make when they fly from flower to flower?",
+        "answer": "ZIGZAG",
+        "option1": "CIRCLE",
+        "option2": "SQUARE",
+        "option3": "SPIRAL"
+    },
+    "8": {
+        "question": "If you fold a piece of paper and cut out a shape, what do you get?",
+        "answer": "SYMMETRY",
+        "option1": "ASYMMETRY",
+        "option2": "FOLD",
+        "option3": "PATTERN"
+    },
+    "9": {
+        "question": "What pattern might you see in a spider's web?",
+        "answer": "SPIRAL",
+        "option1": "CHECKERBOARD",
+        "option2": "DIAMOND",
+        "option3": "CIRCLE"
+    },
+    "10": {
+        "question": "What comes next: 2, 4, 6, 8, ...?",
+        "answer": "TEN",
+        "option1": "TWELVE",
+        "option2": "FOURTEEN",
+        "option3": "SIXTEEN"
+    },
+    "11": {
+        "question": "What is the pattern of black and white squares on a chessboard called?",
+        "answer": "CHECKERBOARD",
+        "option1": "GRID",
+        "option2": "CIRCLE",
+        "option3": "STRIPE"
+    },
+    "12": {
+        "question": "If you connect the dots in a specific order, what might you reveal?",
+        "answer": "PICTURE",
+        "option1": "NUMBER",
+        "option2": "WORD",
+        "option3": "SHAPE"
+    },
+    "13": {
+        "question": "What do you call a pattern of sound that repeats?",
+        "answer": "RHYTHM",
+        "option1": "MELODY",
+        "option2": "NOISE",
+        "option3": "HARMONY"
+    },
+    "14": {
+        "question": "What pattern do you often find on a ladybug?",
+        "answer": "DOTS",
+        "option1": "STRIPES",
+        "option2": "CIRCLES",
+        "option3": "HEARTS"
+    },
+    "15": {
+        "question": "What is the pattern of waves in the ocean called?",
+        "answer": "TIDE",
+        "option1": "SURGE",
+        "option2": "SPLASH",
+        "option3": "RIPPLE"
+    },
+    "16": {
+        "question": "If you plant seeds in a row and they grow into plants, what do you call the arrangement?",
+        "answer": "ROW",
+        "option1": "CIRCLE",
+        "option2": "BUNCH",
+        "option3": "CLUSTER"
+    },
+    "17": {
+        "question": "What pattern might you see in a kaleidoscope?",
+        "answer": "GEOMETRIC",
+        "option1": "RANDOM",
+        "option2": "ABSTRACT",
+        "option3": "NATURE"
+    },
+    "18": {
+        "question": "What pattern can you find on a tiger's fur?",
+        "answer": "STRIPES",
+        "option1": "SPOTS",
+        "option2": "CIRCLES",
+        "option3": "SQUARES"
+    },
+    "19": {
+        "question": "If you bounce a ball on the ground, what shape does its path resemble?",
+        "answer": "PARABOLA",
+        "option1": "CIRCLE",
+        "option2": "OVAL",
+        "option3": "SQUARE"
+    },
+    "20": {
+        "question": "What is the pattern of holes in a flute called?",
+        "answer": "FINGERING",
+        "option1": "BLOWHOLE",
+        "option2": "VENT",
+        "option3": "APERTURE"
+    },
+    "21": {
+        "question": "What pattern might you see in a spider's web?",
+        "answer": "WEB",
+        "option1": "SPIRAL",
+        "option2": "GRID",
+        "option3": "CHECKERBOARD"
+    },
+    "22": {
+        "question": "What do you call a pattern of stars in the sky?",
+        "answer": "CONSTELLATION",
+        "option1": "SOLAR SYSTEM",
+        "option2": "GALAXY",
+        "option3": "COMET"
+    },
+    "23": {
+        "question": "What pattern can you make by arranging colored blocks?",
+        "answer": "MOSAIC",
+        "option1": "STACK",
+        "option2": "PILE",
+        "option3": "ROW"
+    },
+    "24": {
+        "question": "What is the pattern of the lines on your hand called?",
+        "answer": "PALMISTRY",
+        "option1": "WRINKLE",
+        "option2": "VEIN",
+        "option3": "SKIN"
+    },
+    "25": {
+        "question": "What do you call the pattern of sound that a clock makes?",
+        "answer": "TICK-TOCK",
+        "option1": "CHIME",
+        "option2": "RING",
+        "option3": "TOLL"
+    },
+    "26": {
+        "question": "What pattern can you make by arranging different-colored yarn?",
+        "answer": "WEAVING",
+        "option1": "KNOTTING",
+        "option2": "BRAIDING",
+        "option3": "TWISTING"
+    },
+    "27": {
+        "question": "What pattern might you see on a butterfly's wings?",
+        "answer": "SPOTS",
+        "option1": "STRIPES",
+        "option2": "CIRCLES",
+        "option3": "LINES"
+    },
+    "28": {
+        "question": "If you draw a line from one point to another, what shape might it create?",
+        "answer": "LINE",
+        "option1": "CIRCLE",
+        "option2": "SQUARE",
+        "option3": "TRIANGLE"
+    },
+    "29": {
+        "question": "What pattern might you see in a bee's flight path?",
+        "answer": "ZIGZAG",
+        "option1": "SPIRAL",
+        "option2": "CIRCLE",
+        "option3": "STRAIGHT"
+    },
+    "30": {
+        "question": "What pattern can you make by arranging beads on a string?",
+        "answer": "NECKLACE",
+        "option1": "BRACELET",
+        "option2": "ANKLET",
+        "option3": "EARRING"
+    },
+    "31": {
+        "question": "What is the pattern of colors in a rainbow called?",
+        "answer": "SPECTRUM",
+        "option1": "RAIN",
+        "option2": "ARC",
+        "option3": "RADIANCE"
+    },
+    "32": {
+        "question": "What pattern might you see in the sand at the beach?",
+        "answer": "RIPPLES",
+        "option1": "WAVES",
+        "option2": "FOOTPRINTS",
+        "option3": "SHELLS"
+    },
+    "33": {
+        "question": "If you stack blocks in a row, what do you create?",
+        "answer": "TOWER",
+        "option1": "PILE",
+        "option2": "WALL",
+        "option3": "STACK"
+    },
+    "34": {
+        "question": "What pattern can you make by arranging leaves on a stem?",
+        "answer": "SPIRAL",
+        "option1": "ROW",
+        "option2": "CIRCLE",
+        "option3": "FAN"
+    },
+    "35": {
+        "question": "What do you call the pattern of footsteps in the snow?",
+        "answer": "TRACKS",
+        "option1": "IMPRINTS",
+        "option2": "MARKS",
+        "option3": "TRAILS"
+    },
+    "36": {
+        "question": "What pattern might you see in the way birds fly south for the winter?",
+        "answer": "V-SHAPE",
+        "option1": "SQUADRON",
+        "option2": "SQUIGGLE",
+        "option3": "SWARM"
+    },
+    "37": {
+        "question": "If you arrange rocks in a row, what do you create?",
+        "answer": "LINE",
+        "option1": "PILE",
+        "option2": "MOUND",
+        "option3": "CLUSTER"
+    },
+    "38": {
+        "question": "What pattern can you make by arranging petals on a flower?",
+        "answer": "CIRCULAR",
+        "option1": "SPIRAL",
+        "option2": "LINEAR",
+        "option3": "RADIAL"
+    },
+    "39": {
+        "question": "What do you call the pattern of bricks in a wall?",
+        "answer": "MASONRY",
+        "option1": "STACK",
+        "option2": "PILE",
+        "option3": "LAYERS"
+    },
+    "40": {
+        "question": "What pattern might you see in the way fish swim together?",
+        "answer": "SCHOOL",
+        "option1": "FLOCK",
+        "option2": "PACK",
+        "option3": "HERD"
+    },
+    "41": {
+        "question": "If you arrange books on a shelf, what do you create?",
+        "answer": "STACK",
+        "option1": "PILE",
+        "option2": "ROW",
+        "option3": "CLUSTER"
+    },
+    "42": {
+        "question": "What pattern can you make by arranging tiles on a floor?",
+        "answer": "GRID",
+        "option1": "RANDOM",
+        "option2": "CHECKERBOARD",
+        "option3": "MOSAIC"
+    },
+    "43": {
+        "question": "What do you call the pattern of stars on the American flag?",
+        "answer": "STARRY",
+        "option1": "STRIPES",
+        "option2": "SPANGLED",
+        "option3": "STARSTRUCK"
+    },
+    "44": {
+        "question": "What pattern might you see in the way ants march in a line?",
+        "answer": "STRAIGHT",
+        "option1": "CIRCULAR",
+        "option2": "ZIGZAG",
+        "option3": "SWIRL"
+    },
+    "45": {
+        "question": "If you stack cups one on top of the other, what do you create?",
+        "answer": "PYRAMID",
+        "option1": "TOWER",
+        "option2": "PILE",
+        "option3": "STACK"
+    },
+    "46": {
+        "question": "What pattern can you make by arranging feathers on a bird's wing?",
+        "answer": "OVERLAP",
+        "option1": "ROW",
+        "option2": "FAN",
+        "option3": "CLUSTER"
+    },
+    "47": {
+        "question": "What do you call the pattern of waves in the sand dunes?",
+        "answer": "RIPPLES",
+        "option1": "WAVES",
+        "option2": "DRIFTS",
+        "option3": "CURVES"
+    },
+    "48": {
+        "question": "What pattern might you see in the way cars move on a busy street?",
+        "answer": "TRAFFIC",
+        "option1": "GRIDLOCK",
+        "option2": "CONGESTION",
+        "option3": "JAM"
+    },
+    "49": {
+        "question": "If you arrange buttons on a shirt, what do you create?",
+        "answer": "ROW",
+        "option1": "STACK",
+        "option2": "PILE",
+        "option3": "CLUSTER"
+    },
+    "50": {
+        "question": "What pattern can you make by arranging cookies on a baking sheet?",
+        "answer": "GRID",
+        "option1": "STACK",
+        "option2": "MIXED",
+        "option3": "LINE",
+        "option4": "CIRCLE"
+    }
+}
